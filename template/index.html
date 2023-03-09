@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+
+
+			{% with messages = get_flashed_messages() %}
+			{% if messages %}
+			<p></p>
+			<div class="row">
+               <div class="col-md-3">
+					<div class="card card-outline card-primary">
+					  <div class="card-header">
+						<h3 class="card-title">MasterCim</h3>
+
+						<div class="card-tools">
+						  <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
+							<i class="fas fa-minus"></i>
+						  </button>
+						  <button type="button" class="btn btn-tool" data-card-widget="remove" title="Remove">
+							<i class="fas fa-times"></i>
+						  </button>
+						</div>
+					  </div>
+					  <div class="card-body">
+							{{ messages[0] }}
+					  </div>
+					  <!-- /.card-body -->
+					  <div class="card-footer">
+					  </div>
+					  <!-- /.card-footer-->
+					</div>
+				</div>
+			</div>
+			{% endif %}
+			{% endwith %}
+
+{% endblock %}

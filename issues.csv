@@ -1,0 +1,250 @@
+#;Projeto;Tipo;Tarefa pai;Situação;Prioridade;Título;Autor;Atribuído para;Alterado em;Tempo estimado geral;Criado em;Concluído;Última atualização por;Tarefas relacionadas;Arquivos;Cliente;Solicitante;Tempo Testes;Privado;Descrição;Últimas notas
+7931;Suporte Técnico;Ticket;"";Comercial;Não;Duvida no app de Pedido;Ana;"";14/10/2020 15:12;"";14/10/2020 15:12;"";Ana;"";"";LOUSART;Nelson;"";Não;"Cliente tem interesse em saber como funciona o aplicativos de pedido, saber os valores.
+
+entrar em contato com o *Nelson - 984905229*";""
+7943;Suporte Técnico;Ticket;"";Comercial;Não;Nova empresa;Ana;"";15/10/2020 09:48;"";15/10/2020 09:47;"";Ana;"";"";FORMIGONI;Rocha;"";Não;"<pre>
+ preciso ver c ele ou alguém do comercial para aderir a um sistema pra minha outra empresa apenas para emissão de NF Queria ver o melhor valor
+</pre>
+
+Cliente vai abrir um nova empresa apenas com emissao de nota e gostaria de saber quanto a valores 
+
+Rocha - 98858-1438";""
+8637;Suporte Técnico;Ticket;"";Análise Técnica;Não;Erro MDF;Ana;Carlson;04/12/2020 17:00;"";04/12/2020 16:55;"";Ana;"";rustfer.jpg;RUSTFER MOVEIS;Amanda;"";Não;"Cliente entrou em contato que esta com problema para acesso o mdf
+!rustfer.jpg!";""
+9530;Suporte Técnico;Ticket;"";Comercial;Não;Treinamento Sistema;Elaine;Cleverson;25/02/2021 15:11;"";23/02/2021 14:07;"";Cleverson;"";"";FORMASAT;Sandra;"";Não;"A cliente entrou em contato solicitando um treinamento da empresa Perfios e Formasat
+Segundo ela eles precisam mudar alguns procedimentos internos e melhorar utilização do sistema de vocês para otimizar os processos.
+Eles querem focar especialmente nos procedimentos de criar acesso aos setores da empresa Perfios e Formasat e verificar procedimentos do modulo Financeiro.
+
+Contado Sandra: 41 99131-1527 ou 3033-0095";Sandra retornou comentando que não poderá receber nessa sexta e que vai aguardar liberação para poder marcar visita técnica.
+9562;Suporte Técnico;Ticket;"";Comercial;Não;Aquisição do Sistema ;Ana;Cleverson;18/03/2021 10:36;"";24/02/2021 16:05;"";Cleverson;"";"";MASTERCIM;Efrain;"";Não;"Srº Efrain entrou em contato para realizar a aquisição do sistema para sua empresa
+Entrar em contato com o mesmo pelo telefone 41 98826-1080 - Efrain";"[15:38, 17/03/2021] Cleverson: Tudo certo com a analise da proposta? Algo que possa ajudar para facilitar o fechamento?
+[08:23, 18/03/2021] +55 41 8826-1080: Bom dia Cleverson ainda não mudei o sistema mais pago 195 reais ."
+9211;Suporte Técnico;Ticket;"";Nova;Não;Atualizar versão do Firebird;Cleverson;Suporte;29/01/2021 15:35;"";29/01/2021 15:35;"";"";"";"";BLACK CHOPP BEBIDAS (CURITIBA);Dara - 41 9.9757-0199;"";Não;Precisamos que seja realizado o procedimento de atualização do sgdb para a versão do 2.5. Favor entrar em contato com a Dara para realização do agendamento/procedimento.;""
+9212;Suporte Técnico;Ticket;"";Comercial;Não;Demostrativo de sistema;Ana;Cleverson;25/02/2021 09:45;"";29/01/2021 16:07;"";Cleverson;"";"";MASTERCIM;Jacqueline;"";Não;"Jacqueline recebeu a indicação do Eliton da empresa Beliton, para utilizar o sistema
+
+segue contato  99637-2060 Jacqueline";Realizado novo contato com Jacqueline para tentar conversar sobre os sistemas e fazer uma demonstração do sistema e gerar uma proposta, estou aguardando retorno dela.
+9621;Suporte Técnico;Ticket;"";Nova;Não;Configuração de e-mail para conta do Roberto;Cleverson;Elaine;17/03/2021 16:28;"";02/03/2021 10:39;"";Elaine;"";"";REALMAD MADEIRAS;Roberto;"";Não;Solicitou ajuda para poder configurar a conta de e-mail pois estava dando um erro ao tentar transmitir documentos por e-mail via sistema.;Entrado em contato com Roberto, ele não se encontra na empresa, mas assim que retornar vai entrar em contato comigo para configurarmos.
+8681;Suporte Técnico;Ticket;"";Suporte;Não;Versao V20.12.01;Andre;Suporte;18/01/2021 09:11;"";09/12/2020 09:30;"";Elaine;"";"";CASA DOS VARAIS;"";"";Não;#7613;Encaminhado novamente e-mail a cliente, aguardando autorização para atualizar.
+7647;Suporte Técnico;Ticket;"";Suporte;Não; Validação do custo médio;Ana;Ana;04/01/2021 13:52;"";18/09/2020 14:12;"";Andre;"";"";X MED COMERCIO DE MATERIAL MEDICO HOSPITALAR;Ana;"";Não;"Olá...
+Não identifique retorno.
+Grata
+
+Lá...
+
+ 
+
+ 
+
+Enviamos na implantação do sistema uma planilha que  comparando com a planilha enviado no ticket 7188, tem valores divergentes do inicio.
+
+1.       Vocês podem nos informar qual a tabela utilizada na implantação de custo?
+
+2.       Como compõe o novo calculo do custo? Ainda não conseguimos validar, pelo o que esta no sistema ( Hoje)
+Fazendo uma simulação entre a enviada ou a do ticket , tem itens com valores muito divergentes.
+Aguardamos retorno técnico.
+
+ ";"Segue breve explicação sobre como funciona a montagem do custo médio.
+
+Custo = Custo - (((Custo * (Percentual_ICMS / 100)) * percentual_diferimento) / 100);
+CustoAnterior = custo gravado anteriormente
+CustoAtual    = Custo
+CustoMedio    = ((CustoAtual * quantidade) + (CustoAnterior * quantidade_estoque)) / (quantidade + quantidade_estoque)"
+8133;Suporte Técnico;Ticket;"";Análise Técnica;Não;MANIFESTO ;Ana;Carlson;29/10/2020 15:43;"";29/10/2020 15:43;"";Ana;"";artbrasil.jpeg;RUSTFER MOVEIS;Amanda;"";Não;"Cliente não esta conseguindo encerrar os manifestos de nº 404 e 405 apresenta o seguinte erro:
+*Empresa: Art brasil*
+
+!artbrasil.jpeg!";""
+9640;Suporte Técnico;Ticket;"";Suporte;Não;Versao V21.03.01;Andre;Suporte;03/03/2021 11:37;"";03/03/2021 11:37;"";Andre;"";"";BETHA IMPLANTES;"";"";Não;#9299;""
+9639;Suporte Técnico;Ticket;"";Suporte;Não;Versao V21.03.01;Andre;Suporte;03/03/2021 11:37;"";03/03/2021 11:35;"";Andre;"";"";SPACE MEDICAL DISTRIBUIDORA LTDA;"";"";Não;#9261,#9298;""
+9641;Suporte Técnico;Ticket;"";Suporte;Não;Versao V21.03.01;Andre;Suporte;03/03/2021 11:38;"";03/03/2021 11:38;"";Andre;"";"";TOP SURGICAL;"";"";Não;#9194;""
+9642;Suporte Técnico;Ticket;"";Suporte;Não;Versao V21.03.01;Andre;Suporte;11/03/2021 13:46;"";03/03/2021 11:40;"";Elaine;"";"";MEDICA BRASIL;"";"";Não;#9113;Entrado em contato com a cliente (Thais) e aguardando permissão para atualizarmos
+9643;Suporte Técnico;Ticket;"";Suporte;Não;Versao V21.03.01;Andre;Suporte;03/03/2021 11:41;"";03/03/2021 11:41;"";Andre;"";"";PICKER IMPLANTES LTDA;"";"";Não;#9262;""
+9657;Suporte Técnico;Ticket;"";Comercial;Não;Negociação Aplicativo de Vendas ;Cleverson;Cleverson;03/03/2021 16:01;"";03/03/2021 15:59;"";Cleverson;"";"";RUSTFER MOVEIS;Elenise +55 41 99814-5066;"";Não;Wilson solicitou para que seja realizado contato com Elenise da Rustfer pois ela desejaria incluir o uso do aplicativo de vendas para seus representantes.;"Cliente retornou posteriormente comentando que teria aproximadamente 20 vendedores assim sendo a proposta não atenderia, então foi reenviado proposta atualizada e esta sendo aguardado retorno do cliente.
+
+[15:24, 03/03/2021]
+Aplicativo - Pedido de Vendas
+LDU/Implantação: R$480,00
+Manutenção mensal (até 30 usuários): R$240,00"
+9771;Suporte Técnico;Ticket;"";Nova;Não;Duvida Cadastro de Produto;Ana;"";11/03/2021 16:49;"";11/03/2021 16:49;"";"";"";"";SANDIPEL COM.DE SUP.MAQ.E ASS.TECNICA LTDA;Jessica;"";Não;"";""
+9827;Suporte Técnico;Ticket;"";Nova;Não;Duplicidade de Nota ;Ana;"";17/03/2021 11:07;"";17/03/2021 11:07;"";"";"";"";SUPER CARGA;Elenise;"";Não;Duplicidade de Nota ;""
+8240;Suporte Técnico;Ticket;"";Comercial;Não;Tela de AGENDAMENTOS;Ana;Cleverson;25/02/2021 09:47;"";10/11/2020 10:07;"";Cleverson;"";"";IMPLANEWS SURGICAL;Valdeir;"";Não;"Cliente deseja mais informações sobre a tela de agendamentos
+
+Valdeir - 31 0 9978-2929";Realizado nova tentativa para dar sequencia ao processo de uso da ferramenta. Bom dia! Gostaria de retomar nossas conversas sobre o Ticket #8240 - Tela de AGENDAMENTOS por aplicativo
+7372;Suporte Técnico;Ticket;"";Suporte;Não;Versao V20.08.01;Andre;Suporte;14/12/2020 08:34;"";04/08/2020 13:32;"";Elaine;"";"";ORTO IMPLANTES;"";"";Não;Implantar o.s #7364;Entrada em contato novamente e solicitado a Luci (Gerente financeiro) a atualização do sistema
+8803;Suporte Técnico;Ticket;"";Suporte;Não;Mensagem de erro ao logar no sistema;Elaine;Elaine;18/03/2021 11:25;"";17/12/2020 13:01;21/12/2020 08:44;Rodrigo;"";"CadOperador.png
+Senha.png";TRAVESSIA GUARATUBA;Carlinhos;"";Não;"No cadastro de usuario ao cadastrar uma senha com letras o sistema apresenta mensagem de senha incorreta ao tentar logar no sistema.
+
+Usuario: GERAL Senha: ctg@1975
+Menu - Cadastro - Operadores
+Cadastro o operador ERICK DOS SANTOS
+Apelido : ERICK Senha erick
+!CadOperador.png!
+
+Sai do sistema para logar com o usuario e senha inseridos.
+Ao inserir usuario (ERICK) e senha (erick), o sistema apresenta a mensagem: ERICK sua senha está incorreta.
+!Senha.png!
+
+Tentamos a inclusão de uma senha com letras e numeros (erick123) o sistema apresentou a mesma mensagem de senha incorreta.
+
+O usuario só conseguiu logar no sistema quando cadastrado uma senha somente de numero (12345)
+
+Base de teste: https://drive.google.com/file/d/1oKcpEw39pUolcJh6X68WT_p-f5rv4l1A/view?usp=sharing";"Problema corrigido.
+
+Basta descompactar o seguinte arquivo na pasta do sistema (após fazer backup da pasta):
+""Bilheteria v2.13"":https://drive.google.com/file/d/1pdwJ4bZu3QC2rmRQCaqkCqseIjnMdFEb/view?usp=sharing
+
+*Esta versão deve ser implantada somente no SERVIDOR!*"
+9286;Suporte Técnico;Ticket;"";Suporte;Não;Versao V21.02.01;Andre;Suporte;05/02/2021 09:09;"";05/02/2021 09:09;"";Andre;"";"";FIXAR IND.COM.KITS AR CONDICIONADO LTDA;"";"";Não;#8639;""
+9289;Suporte Técnico;Ticket;"";Suporte;Não;Versao V21.02.01;Andre;Suporte;05/02/2021 09:15;"";05/02/2021 09:13;"";Andre;"";"";ATACADAO DA SOLA;"";"";Não;#8875;""
+8384;Suporte Técnico;Ticket;"";Comercial;Não;XMED - Aplicativo de agenda de cirurgias;Cleverson;Cleverson;18/02/2021 14:15;"";18/11/2020 10:16;"";Cleverson;"";"";X MED COMERCIO DE MATERIAL MEDICO HOSPITALAR;Ana Lucia;"";Não;"Ana Lucia (41 9.8508-8338) entrou em contato comentando que não se recordava quanto aos detalhes do aplicativo de cirurgias mas que gostaria de saber mais sobre o produto.
+[16:18, 17/11/2020] C. X Med Ana Lucia: Mas hoje quero saber ... vcs tem aplicativo de agendamento de cirurgias? ou algo parecido
+[16:18, 17/11/2020] C. X Med Ana Lucia: Não me lembro bem";"Cliente relatou algumas dúvidas sobre algumas funcionalidades, as quais foram sanadas e posteriormente foi retornado por ele que vai retomar analise pois irá precisar da solução.
+""Vou rever, sim . Porque para nós  será muito importante e interessante no momento que estamos agora.""
+Em 1º lugar que a agenda ficasse disponivel para cada profissional e não tudo junto...
+Resp.: Hoje o aplicativo já conta com um filtro para que fique fácil para o usuário poder selecionar somente as agendas vinculadas a ele.
+
+Temos 20 pessoas que usariam este recurso, mais dois fazendo a gestão. Para a gestão teríamos que ter algo fácil para visualizar  agenda de todos.
+Resp: No caso o filtro já existente pode atender à necessidade pois permite que o gestor veja de todos ou selecionar de um representante especificamente.
+
+Este 20 temos em Curitiba, Mato Grosso, Mato grosso do Sul, SC  e interior do PR.
+Resp: Realmente o aplicativo pode ser a solução mais eficiente. 
+
+Obs.: Creio que em ambos os pontos que comentou o filtro realmente é o que fará a diferença, atualmente o aplicativo carrega por padrão todas as agendas e o usuário pode optar por filtrar somente o qual desejar, isso facilitaria o uso por parte dos gestores digamos assim. Por outro lado poderíamos modificar isso e deixar o filtro padronizado para carregar de cada usuário as agendas, e ai facilitar para os representantes, e os gestores poderiam optar por filtrar a consulta de um específico ou mesmo de todos.
+
+Quanto aos campos que são apresentados na agenda estão a contento? Nesse ponto creio que estejam pois tem todos os itens indicados no cabeçalho da RM, mas sempre vale uma consulta quanto a visão por parte de vocês usuários é claro.
+"
+7459;Suporte Técnico;Ticket;"";Análise Técnica;Não;ST na entrada de estados não conveniados;Ana;Carlson;09/09/2020 09:12;"";14/08/2020 09:39;"";Rodrigo;"";"";SANDIPEL COM.DE SUP.MAQ.E ASS.TECNICA LTDA;Sergio / Rene RG Locação;"";Não;"Alguns estados nao estão mais conveniados com o Paraná, e quando fazemos a entrada do produto não vem o valor de ST destacado na nota fiscal, mas geramos uma guia a parte para ser paga com esse valor da ST dos itens que destacam, e na entrada de mercadoria como nao veio o valor destacado eu tenho que entrar direto no cadastro do item e calcular a ST e atualizar no custo, eu utilizo um outro programa que eu informo o NCM e informa o estado que a nota vem, se a empresa é simples ou não, e os impostos que vieram destacados e ele faz um calculo do valor da st para eu pagar a guia, e no sistema ele naoo faz esse calculo porque nao veio destacado.
+
+RG LOCAÇÕES comentou da mesma situação";Carlson, por gentileza verifique se esta solicitação é coerente com a legislação, e explique o que precisa fazer, porque para mim não ficou claro.
+9837;Suporte Técnico;Ticket;"";Nova;Não;Liberação de Acesso;Ana;"";18/03/2021 10:36;"";18/03/2021 10:36;"";"";"";"";LINHACO;Emily;"";Não;Liberação de Acesso;""
+9130;Suporte Técnico;Ticket;"";Comercial;Não;Treinamento do Sistema;Ana;Cleverson;04/03/2021 10:59;"";25/01/2021 10:52;"";Cleverson;"";"";SHOW DE PÉ;Jaqueline;"";Não;"Cliente tem o sistema a algum tempo, mas utiliza o básico e ainda sim tem algumas duvidas
+
+Entrar em contato com a Jaqueline";Realizado novo contato com Jaqueline para tentar acelerar o processo de auxilio nas instruções do sistema ou mesmo sanar dúvidas existentes, e também para levantar mais informações sobre a lista de necessidades que ficaram de levantar. Ela ainda não retornou.
+9482;Suporte Técnico;Ticket;"";Comercial;Não;Contato de pós-vendas com Josemar;Cleverson;Cleverson;09/03/2021 15:25;"";19/02/2021 11:53;"";Cleverson;"";"";FARMATEX DO BRASIL S/A;Wilson;"";Não;Wilson solicitou que entre em contato com Josemar da Farmatex para conversar sobre situações relacionas ao uso geral do sistema bem como levantar informações sobre uma situação que foi comentada em reunião com o Rodrigo, sobre implantar o sistema em outras lojas do grupo.;Realizado mais um contato com cliente para tentar um retorno sobre os pontos por ele citados, mas o mesmo ainda não retornou. Enviado e-mail para registro e acompanhamento.
+8898;Suporte Técnico;Ticket;"";Comercial;Não;Dúvida sobre implantação do App de Pedido de Vendas vinculado ao MasterCOM;Cleverson;Cleverson;04/03/2021 11:01;"";05/01/2021 13:31;"";Cleverson;"";"";DDN CONFECCOES;Mauro/Daiane;"";Não;Mauro a pedido da Daiane entrou em contato solicitando informações sobre o pedido de vendas através de aplicativo, já que estarão trabalhando somente com vendedores externos. ;Cliente fez novas solicitações as quais foram criadas tarefa para analise da equipe técnica no asana: _Cleverson, conforme conversamos por telefone, segue print da tela do apalicativo. Nesta tela histórico do pedido deve ter status do pedido faturado/data e o código do rastreamento. O vendedor deve ser notificado via e-mail ou WhatsApp que o pedido foi faturado._
+9383;Suporte Técnico;Ticket;"";Análise Técnica;Não;Lentidão Ao Editar Venda;Ana;Carlson;11/03/2021 16:00;"";12/02/2021 14:49;"";Ana;"";"pegaza_gerenciador.jpeg
+pegaza.png";PEGAZA COMERCIO DE PLASTICOS E ESPUMAS;Angelize;"";Não;"O responsável pela t.i da Pegaza entrou em contato reportando que após a atualização em tem momentos do dia do o Firebird estar utilizando 100% de Processamento, Ja foi reiniciado o firebird e o servidor, já rodamos o backup restore.
+Os vendedores relatam que o problema da lentidão ocorre quando vão editar qualquer venda, ja foi realizado o teste no servidor, ele demorou um pouco mas gravou a alteração nas vendas, mas nas estações demora ate 5 minutos as vezes, na minha maquina também demorou um pouco para gravar a edição. 
+
+oque pode ser feito, para que o firebird não utilize 100% ?
+
+Base disponível em: https://drive.google.com/drive/folders/1VYbPUpMcEHOrfic3PtwgGUDQMPLE3VtT?usp=sharing";"Olá Carlson, testamos das duas formas no sistema com os nf's abertos e fechado.
+
+A outra duvida- sim, tem as duas lojas foi configurado a sincronização.
+
+!pegaza.png!
+"
+8839;Suporte Técnico;Ticket;"";Análise Técnica;Não;Automatização do Processo de Pedido gerados de RM;Elaine;"";05/03/2021 10:03;"";22/12/2020 14:41;04/01/2021 11:15;Elaine;"";"";X MED COMERCIO DE MATERIAL MEDICO HOSPITALAR;Ana;"";Não;"Menu - Movimentações - Saídas - Pedido de venda - Cliente deseja automatização no processos de envio dos pedidos gerados da RM.
+
+Quando em Utilitários - Parâmetros / Aba Movimentação - Campo RM, estiver marcado a opção: Gerar pedido de retorno para faturamento, ao fazer o retorno de itens de uma RM, o sistema gera uma nota fiscal de retorno de mercadorias.
+
+Foi conectado com a Ana/Pedro para verificar essa funcionalidade (Ticket 8386), a Ana precisa que esse processo seja automatizado, foi relatado por ela que dessa forma fica muito fácil do usuário fazer a remessa e esquecer a nota de retorno, da forma como está hoje, o sistema gera dois Pedidos, um de remessa e outro para retorno e o usuário precisa entrar nos dois pedidos e fazer o processo de envio individual. 
+
+Ela solicita que de alguma forma os dois pedidos (Remessa/Retorno) gerados pela RM sejam vinculados de forma que, ao gerar a remessa o sistema já automatize o processo para a nota de retorno para evitar erros internos.
+";"Como o problema é o usuário esquecendo de enviar a nota de entrada de mercadoria (retorno), então veja com o cliente se um bloqueio na hora de enviar a nota de vendas, caso ainda não tenha enviado a nota de retorno, já resolva a situação.
+Ou seja, o usuário só poderá enviar a nota de venda se já tiver enviado a nota de retorno."
+9645;Suporte Técnico;Ticket;"";Suporte;Não;Versao V21.03.01;Andre;Suporte;03/03/2021 11:44;"";03/03/2021 11:44;"";Andre;"";"";COMPANHIA AMBIENTAL;"";"";Não;#9191,#9196,#9419;""
+9647;Suporte Técnico;Ticket;"";Suporte;Não;Versao V21.03.01;Andre;Suporte;03/03/2021 11:46;"";03/03/2021 11:46;"";Andre;"";"";BAGNOLIN;"";"";Não;#8862;""
+9667;Suporte Técnico;Ticket;"";Nova;Não;Auxilio com a parte fiscal da nota;Elaine;"";04/03/2021 09:45;"";04/03/2021 09:45;"";"";"";"";NOVA FASE;Luzimar;"";Não;"";""
+9697;Suporte Técnico;Ticket;"";Suporte;Não;Duplica movimento - puxou outros itens;Ana;Ana;11/03/2021 17:31;"";05/03/2021 15:03;"";Ana;"";"duplicado.png
+pedido_origem.png";SPACE MEDICAL DISTRIBUIDORA LTDA;Otaviano;"";Não;"Cliente começou a utilizar o sistema a pouco tempo, e provavelmente foi implantado um base já utilizada, e ao realizar o processo de duplica movimento em pedido, na aba de pré-faturamento ja puxa informações de itens que não tem cadastrado na base deles, abaixo está a imagem de um exemplo que realizei
+
+Base disponível em: https://drive.google.com/drive/folders/1lBKKIqpCI9Dz3c06qztS_ZED4-qHiT5H?usp=sharing
+*Pedido Origem*
+
+!pedido_origem.png!
+
+*Pedido Duplicado*
+!duplicado.png!
+";Marcado com a Cliente para conectar amanha pela manha no servidor para realizar o processo
+9736;Suporte Técnico;Ticket;"";Nova;Não;Relatorio de RM;Ana;"";09/03/2021 17:11;"";09/03/2021 17:11;"";"";"";BETHA.jpg;BETHA IMPLANTES;Caio;"";Não;"Menu - Movimentações - Saídas - Requisições de Materiais
+Em modo lista seleciono uma RM e clico no botão de CheckList, na tela de Ligação RM - Kit clico novamente no botão de CheckList.
+
+Ao imprimir o relatório de CheckList o sistema apresenta o mesmo para conferencia dos itens, nesse o cliente consegue saber o que foi Quantidade (Quando informada), Utilizado, Danificado, Doado e Pendente.
+
+
+
+O cliente precisa saber a quantidade de item 'Livres 'ou seja aqueles que ainda estão disponíveis para serem utilizados nessa RM. Segundo cliente existia um relatório em que eram impressos somente essas os itens com as quantidades livres para utilização e o mesmo não existe mais.";""
+9731;Suporte Técnico;Ticket;"";Nova;Não;Migração de sistema do MasterFix para o MasterCom;Cleverson;Cleverson;09/03/2021 17:16;"";09/03/2021 16:13;"";Cleverson;"";"";HIGI LUX PROTECT;Eduardo;"";Não;Cliente entrou em contato relatando que estaria passando por mudanças na empresa e deixando de atuar na area de produtos ortopédicos e esta necessitando de outras ferramentas no sistema, como relatórios e mesmo a parte de venda por aplicativo para representantes externos.;Ticket #9732
+9785;Suporte Técnico;Ticket;"";Comercial;Não;Nova empresa no sistema;Ana;Cleverson;17/03/2021 15:36;"";12/03/2021 10:57;"";Cleverson;"";"";MASTERCIM;Grazi;"";Não;"A srª Grazi trabalhava na empresa GDS, e saiu e agora na empresa nova que ela está, estão precisando de um sitema, e ela gostaria de saber mais como adquirir 
+
+Por gentileza entrar em contato
+Grazy - 99719-1854";Conversado novamente com prospecto e sanado dúvidas pontuais sobre questões de parcelamentos e vinculação de boletos no sistema, aguardando confirmação para geração de contrato.
+9735;Suporte Técnico;Ticket;"";Nova;Não;Analisar condições de atender necessidade nos direitos de acesso quanto a tabelas de preço por cliente e limites de desconto;Cleverson;Cleverson;17/03/2021 15:35;"";09/03/2021 17:08;"";Cleverson;"";"";GDS - GESSO E DECORACOES;Elizeu;"";Não;"Cadastro/Entidades [Tabela Preço] 
+Durante cadastro do cliente o vendedor não pode ter acesso nesta tela das tabelas, somente o  supervisor poderá direcionar tal cliente a tabela.
+
+Movimento [Venda Rápida], [Orçamento de Venda]
+Bloquear qualquer percentual de desconto quando o vendedor já estiver usando tabela para determinado cliente.
+Bloquear desconto no item e desconto no total do orçamento/venda.";[11:54, 15/03/2021] Elizeu Daper: Vou repassar ao Sandro pra ver o que ele quer que eu faça
+9793;Suporte Técnico;Ticket;"";Análise Técnica;Não;Tela para Registro das Entregas e Comissão dos entregadores (Motoristas e Ajudantes);Cleverson;"";15/03/2021 13:54;"";15/03/2021 09:32;15/03/2021 10:27;Elaine;"";COMISSÃO EXPEDIÇÃO.xlsx;GDS - GESSO E DECORACOES;Elizeu;"";Não;"1- Tela para registrar as entregas, onde seja possível indicar a Data, o Documento (Venda/Entrada de Mercadorias), um motorista e uma relação de ajudantes (que atualmente podem chegar a ser até 4 pessoas);
+2- Indicar no cadastro das entidades no caso dos motoristas e ajudante um % de comissão;
+3- Ter um relatório onde se possam consultar as entregas realizadas por cada motorista e cada ajudante bem como o valor correspondente ao comissionamento de cada um, valor esse que se baseia no valor da venda entregue multiplicado pelo % de comissão. (ver exemplo da planilha anexo)
+4- Incluir campo pra informar nota fiscal entrada de coletas feitas e utilizar mesmas regras para pagamento de comissão;
+5- Sempre deverá ser considerado o valor total da Venda/Entrada de Mercadorias para a comissão das entregas;
+6- Não pode permitir uma mesma Venda/Entrada de Mercadorias ser indicada em mais de uma entrega diferente;";Entrado em contato com cliente o mesmo aguarda o convite para reunião no e-mail: elizeu@gdsdrywall.com.br 
+9800;Suporte Técnico;Ticket;"";Suporte;Não;Duvida Inventario;Ana;Ana;16/03/2021 11:13;"";15/03/2021 13:57;"";Ana;"";"";BETHA IMPLANTES;Caio;"";Não;"Cliente precisa tirar o inventario dos itens, mas não quer que apresente os itens inativos, e para alterar manualmente os itens seria muito trabalhoso, pois são mais de mil itens.
+
+Existe algum comando para realizar para que estes itens não saiam no relatório ?";Repassado ao Cliente
+9808;Suporte Técnico;Ticket;"";Análise Técnica;Não;Cliente não consegue localizar nota (Estornada);Elaine;"";16/03/2021 16:21;"";15/03/2021 17:03;"";Elaine;"";"02.png
+01.png
+41210226272121000186550010000018741001021039-nfe.xml
+05.png
+04.png";RGM;Ana;"";Não;"A cliente entrou em contato por não conseguir localizar a nota no sistema.
+Segundo cliente a mesma foi Estornada por ela e não consta mais no sistema após o processo.
+Foi instruído a cliente a voltar a numeração para efetuarmos o lançamento da mesma, mas cliente não tem a nota salva pois a mesma foi cancelada.
+
+Menu - Movimento - Nota Fiscal
+Período 01/01/1900 a 16/04/5001
+Visualização: Todos
+Na tela não é apresentada a NF 1874
+
+!01.png!
+
+Menu - Movimento - Gerenciador de N.F Eletrônica
+Período 01/01/1900 a 16/04/5001 
+No sistema também não é localizada a NF 1874
+
+!02.png!
+
+A cliente informou que a nota foi estornada por ela e a mesma ""sumiu"" do sistema.
+
+Foi relatado por ela que isso já ocorreu no sistema, porem, esse mesmo problema ocorreu devido a cliente ter perdido a base e após dar entrada nas notas uma nota que havia sido cancelada não havia sido lançada por ela no sistema.
+
+Base e áudio do cliente disponível em: https://drive.google.com/file/d/1qNma0ZMDqQ38Amxd9Y_TZ3NLmEntZLXp/view?usp=sharing";base com a nota lançada: https://drive.google.com/file/d/11d2vF1r_iWTn65tB-62UZtYkOjCJXPAK/view?usp=sharing
+9833;Suporte Técnico;Ticket;"";Nova;Não;Duvida;Ana;"";17/03/2021 15:44;"";17/03/2021 15:44;"";"";"";"";DDN CONFECCOES;Claudia;"";Não;Cliente quer rodar um sistema em um tablet;""
+9835;Suporte Técnico;Ticket;"";Nova;Não;Erro de emissão de nota;Ana;"";17/03/2021 16:10;"";17/03/2021 16:10;"";"";"";"";MADECO;Sheila;"";Não;Erro de emissão de nota;""
+9836;Suporte Técnico;Ticket;"";Nova;Não;Ajuste de etiqueta;Ana;"";18/03/2021 09:23;"";18/03/2021 09:23;"";"";"";"";KALARRAM MODAS;Thamy;"";Não;"";""
+8775;Suporte Técnico;Ticket;"";Suporte;Não;Mensagem de erro na tela de Controle de Bilheteria;Elaine;Elaine;18/03/2021 10:04;"";15/12/2020 14:25;04/01/2021 11:54;Rodrigo;"";"ContBilheteria.png
+Log.txt";TRAVESSIA GUARATUBA;Kelvin;"";Não;"Menu - Bilheteria
+
+Na Tela de Controle de Bilheteria, informo no campo Categoria 12 - GUARATUBA e dou um tab.
+Porem, caso o cliente tenha inserido a categoria incorreta ao clicar no botão ""ESC"" para limpar o campo, o sistema apresenta mensagem de erro: Access violation at address 00775764 in module 'Bilheteria.exe'. Read of address 00000000.
+
+!ContBilheteria.png!
+
+Usuario: Geral - Senha: ctg@1975
+Base de Teste: https://drive.google.com/file/d/18sddmQ5hNilXCZbBr0egiYbkkW1TWPqr/view?usp=sharing
+";"Problema corrigido.
+
+Para atualizar, basta descompactar o seguinte arquivo na pasta das bilheterias (após fazer o backup):
+""Bilheteria_1.19d.rar"":https://drive.google.com/file/d/17JTzgjMr7tUQ5jp74hMFhU3_6G9cy_D9/view?usp=sharing
+
+*Esta atualização deve ser feita somente nas _BILHETERIAS_, e não no servidor*"
+9841;Suporte Técnico;Ticket;"";Nova;Não;Cliente não esta conseguindo logar no sistema;Elaine;"";18/03/2021 13:14;"";18/03/2021 13:14;"";Elaine;"";"";SANDIPEL COM.DE SUP.MAQ.E ASS.TECNICA LTDA;Eduardo;"";Não;"";""
+9843;Suporte Técnico;Ticket;"";Nova;Não;Mensagem de  erro ao estornar o pedido;Elaine;"";18/03/2021 13:30;"";18/03/2021 13:30;"";"";"";"";PROFFIX COMERCIO DE EQUIPAMENTO MÉDICOS E HOSPITALARES LTDA;Guilherme;"";Não;"";""
+9844;Suporte Técnico;Ticket;"";Nova;Não;Treinamento para PCP;Cleverson;Cleverson;18/03/2021 13:57;"";18/03/2021 13:56;"";Cleverson;"";"";DDN CONFECCOES;Clarissa;"";Não;"[15:52, 16/03/2021] +55 41 9797-1312: Vamos agendar o treinamento para PCP?
+Segue alguns pontos que o pessoal do PCP precisam de ajuda:
+Ordem de produção
+Controle de estoque
+Utilização do scanner para controle de estoque
+Insumos gastos por peças
+Verificar se a partir da OP é possível gerar o ""Historico de consumo""
+Aumentar o espaço da observação da ""ordem de compra""";Conversado com Clarissa e vamos tratar de um ponto com ela do financeiro que trata da implantação dos saldos dos titulares quer será remoto e aproveitar para agendar o treinamento, pois ela quer presencial e precisa ser levado em considerações as restrições pela covid que estão acontecendo nesses dias.
+9842;Suporte Técnico;Ticket;"";Nova;Não;Dúvidas e dificuldade sobre baixa de títulos e calculo de juros;Cleverson;Suporte;18/03/2021 14:07;"";18/03/2021 13:17;"";Elaine;"";"";CHEMIGZ;Alysson - metalurgicachemigz@hotmail.com;"";Não;"Alysson (41) 3276-9532 relatou que já vem sofrendo a algum tempo com uma situação relativa a baixa do contas a pagar e os cálculos automáticos de juros, pois como ele não faz a baixa diária dos títulos, quando ele vai fazer baixa retroativa o sistema carrega o valor relativo aos juros do atraso, mas mesmo ele mudando a data da baixa o calculo não é desfeito, pois o cliente pagou na data correta somente o lançamento é posterior, ele comentou que necessitava que o sistema tivesse algum facilitador para evitar toda vez realizar ajustes nos lançamentos, comentou ainda que já apresentou essa solicitação ao suporte mas não teve retorno e que se pudesse ter uma ajuda seria muito importante.
+Indica-se contato com o cliente para acompanhar o processo das baixas e ver se o sistema já tem algum facilitador ou se necessitaria abertura de OS.";"Entrado em contato com cliente e explicado processo para conseguir fazer a baixa sem juros e no processo relatado não funciona no cliente pois a versão do mesmo é a 20.10.
+Ele vai entrar em contato após lançamentos de notas para atualizarmos o sistema e fazermos juntos o processo de baixa."
+9845;Suporte Técnico;Ticket;"";Nova;Não;Acompanhamento rotinas do financeiro;Cleverson;Cleverson;18/03/2021 14:39;"";18/03/2021 13:58;"";Cleverson;"";"";DDN CONFECCOES;Clarissa;"";Não;"[15:56, 16/03/2021] +55 41 9797-1312: Financeiro:
+Boletos emitidos diretamente do sistema
+Conciliação bancaria
+Acerto de saldo inicial nas contas";Realizado treinamento da parte que cliente necessitava para utilização dos titulares.
+9838;Suporte Técnico;Ticket;"";Nova;Não;Não esta abrindo o sistema;Ana;"";18/03/2021 14:59;"";18/03/2021 11:39;"";Ana;"";"";RC3;Murilo;"";Não;Não estou conseguindo abrir o sistema da estação;"verifiquei as configurações básicas (antivírus e firewall) e os mesmos já estavam desativados, foi constatado que é bloqueio na rede 
+pois tentei acessar o portal da receita  e o link https://nfe.sefa.pr.gov.br/nfe/nfestatusservico4 mas estava bloqueando, pedi que ele verificasse com o Tecnico pois antes deles reiniciarem pela manha estava normal"

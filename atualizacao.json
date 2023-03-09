@@ -1,0 +1,17 @@
+[
+   {
+     "app":"MasterCom",
+     "data":"07/05/2019",
+     "num_versao":"V19.05.01",
+	 "path_versao":"/mastercim.com.br/public/version/mastercom/",
+     "arquivos":["P00.exe", "NFe.dll"] 
+    },
+   {
+     "app":"MasterFix",
+     "data":"07/05/2019",
+     "num_versao":"V19.05.01",
+	 "path_versao":"/mastercim.com.br/public/version/masterfix/",
+     "arquivos":["Protese.exe", "NFe.dll"] 
+    }
+]
+
